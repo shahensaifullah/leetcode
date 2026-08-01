@@ -11,4 +11,4 @@ class Solution:
 
 
 sol = Solution()
-sol.getConcatenation([1,2,1])
+print(sol.getConcatenation([1,2,1]))
